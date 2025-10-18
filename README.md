@@ -2,7 +2,7 @@
 
 Senior QA & Test Automation Expert | International Speaker | Content Creator
 
-## 🚀 Services
+##  Services
 
 ### Quality Assurance
 - End-to-end QA strategy development and implementation
@@ -27,10 +27,11 @@ Senior QA & Test Automation Expert | International Speaker | Content Creator
 ## 💻 Technical Expertise
 
 - **Languages:** Python, Java, JavaScript
-- **Automation:** Selenium, Cypress, Robot Framework, Appium
+- **Automation:** Selenium, Cypress, Robot Framework, Appium, PlayWright
 - **CI/CD:** Jenkins, GitLab CI, GitHub Actions
 - **Performance:** JMeter, NeoLoad, Octoperf
-- **Cloud:** GCP, Docker, Kubernetes
+- **Cloud:** GCP, Docker, Kubernetes, Azure
+- **Monitoring:** Dynatrace, Gatling, New Relic
 - **Other Tools:** Jira, Confluence, Azure DevOps, Postman
 
 ## 🎯 Recent Projects
@@ -71,7 +72,7 @@ Available for:
 
 ### 🔗 Links
 - [Medium Blog](https://medium.com/@meriemzaid)
-- [LinkedIn](#) (https://www.linkedin.com/in/meryem-zid-652852187/)
+- [LinkedIn](https://www.linkedin.com/in/meryem-zid-652852187/)
 
 ---
 
